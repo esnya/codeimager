@@ -1,21 +1,21 @@
 {
-  "name": "react-skeleton",
+  "name": "CodeImager",
   "version": "1.0.0",
-  "description": "App skelton with React.js",
+  "description": "WIP: Generating images of source codes for twitter.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ukatama/react-skeleton.git"
+    "url": "git+https://github.com/ukatama/codeimager.git"
   },
   "author": "ukatama",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ukatama/react-skeleton/issues"
+    "url": "https://github.com/ukatama/codeimager/issues"
   },
-  "homepage": "https://github.com/ukatama/react-skeleton#readme",
+  "homepage": "https://github.com/ukatama/codeimager#readme",
   "devDependencies": {
     "babel-jest": "*",
     "babelify": "*",
