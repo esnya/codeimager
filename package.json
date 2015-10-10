@@ -26,10 +26,13 @@
     "gulp-webserver": "*",
     "harmony": "*",
     "jest-cli": "*",
+    "material-ui": "callemall/material-ui#react-0.14-support",
     "open": "*",
     "react": "*",
+    "react-addons-linked-state-mixin": "*",
     "react-addons-test-utils": "*",
     "react-dom": "*",
+    "react-tap-event-plugin": "*",
     "react-tools": "*",
     "reactify": "*",
     "through": "*"
@@ -37,6 +40,7 @@
   "jest": {
     "scriptPreprocessor": "preprocessor.js",
     "unmockedModulePathPatterns": [
+      "material-ui",
       "react",
       "react-dom",
       "react-addons-test-utils"
