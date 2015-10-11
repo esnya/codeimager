@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/ukatama/codeimager#readme",
   "devDependencies": {
+    "axios": "*",
     "babel-jest": "*",
     "babelify": "*",
+    "firebase": "*",
     "gulp": "*",
     "gulp-browserify": "*",
     "gulp-notify": "*",
@@ -34,6 +36,7 @@
     "react-dom": "*",
     "react-tap-event-plugin": "*",
     "react-tools": "*",
+    "reactfire": "*",
     "reactify": "*",
     "through": "*"
   },
